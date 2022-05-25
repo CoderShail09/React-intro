@@ -1,0 +1,21 @@
+*{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.App {
+  text-align:  left;
+  margin-left: 10%;
+}
+
+.list{
+  list-style: disc;
+}
+.square{
+  list-style: square;
+}
+
+.circle{
+  list-style: circle;
+}
+
+
+
